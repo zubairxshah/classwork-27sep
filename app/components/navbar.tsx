@@ -22,6 +22,14 @@ export default function Navbar() {
         </li>
         <li>
           <Link
+            href="/countries"
+            className="text-white hover:text-gray-300 px-3 py-2 rounded-md text-sm font-medium"
+          >
+            Countries
+          </Link>
+        </li>
+        <li>
+          <Link
             href="/about"
             className="text-white hover:text-gray-300 px-3 py-2 rounded-md text-sm font-medium"
           >

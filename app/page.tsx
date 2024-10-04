@@ -4,7 +4,7 @@ import Products from "./products/page";
 export default function Home() {
   return (
     <div>
-      <Products />
+      <h1>Home page</h1>
     </div>
   );
 }
