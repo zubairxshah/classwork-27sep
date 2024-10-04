@@ -1,5 +1,4 @@
 import React from "react";
-import Product from "./[product]/page";
 import Link from "next/link";
 
 interface Post {
