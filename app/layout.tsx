@@ -31,6 +31,8 @@ export default function RootLayout({
       >
         <Navbar/>
         {children}
+        <footer className="bg-gray-800 text-white p-4 text-center rounded-b-md">
+          Made by &copy; M Zubair Shah (GIAIC)</footer>
       </body>
     </html>
   );
